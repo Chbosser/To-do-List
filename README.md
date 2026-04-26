@@ -13,5 +13,7 @@ All you need to do to run To-Do List is install Node.js, NPM, and Express.Js. Th
 To run the server run this in your terminal in the same directory as server.js
 `node server.js`
 
-## Post Mortem <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/894052ec-0081-481d-8709-8ad4685a37f3" />
+## Post Mortem 
+
+This project was a great way to sharpen my HTML and CSS skills but also gave me the opportunity to learn some JavaScript. Through this project, I learned how to implement an API into a simple semi-full-stack project. Going forward, I would like to improve the functionality by adding the ability to edit tasks, add priorities, and task descriptions. I would also like to improve the UI with more color and animations. 
 
