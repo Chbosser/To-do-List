@@ -9,7 +9,8 @@ Here is a simple but helpful to-do list I made for my Web Design Class. It has a
 ## How to Run To-Do List
 
 
-All you need to do to run To-Do List is install Node.js, NPM, and Express.Js. Then from there install cors and you should be good to run it. 
+All you need to do to run To-Do List is install Node.js, NPM, and Express.Js. Then from there install cors and you should be good to run it.  
+
 To run the server run this in your terminal in the same directory as server.js
 `node server.js`
 
