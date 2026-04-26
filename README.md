@@ -4,7 +4,7 @@
 
 Here is a simple but helpful to-do list I made for my Web Design Class. It has a fully functioning API using **Node.js** and **Express.js** and a basic Times-New-Roman-filled front end. You can create, complete, and delete tasks with ease.
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img width="300"  height= "600" alt="image" src="https://github.com/user-attachments/assets/cc619666-373d-4965-9a74-fa88e4484fb5" />
