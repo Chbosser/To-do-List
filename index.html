@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TuDue List</title>
+    <script src="scripts/to-do.js" defer></script>
+    <link rel="stylesheet" href="css/to-do.css" />
+  </head>
+  <body
+    style="
+      height: 96vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    "
+  >
+    <div id="app">
+      <h1>To-do List</h1>
+      <div id="place-holder">
+        <!-- WHY IS IT GREEN (This is the placeholder that will be here) -->
+        <p>Welcome to ToDo List</p>
+        <p>A handy to-do list app</p>
+        <p>Start by making a task</p>
+        <img src="icons/down-arrow.svg" alt="arrow" id="arrow-img" />
+      </div>
+      <section id="task-box">
+        <!-- <div class="task-div">
+          <button class="check-box">
+            <img src="unchecked-box.svg" class="check-box-img" />
+          </button>
+          <div class="task-info">
+            <p class="task-text-title">This is an important Task</p>
+          </div>
+          <button class="close-button">X</button>
+        </div> -->
+      </section>
+      <button id="create-task-button">Create Task</button>
+      <p id="credits">Christian Farias 2026</p>
+    </div>
+
+    <div id="popup-menu" class="popup-menu">
+      <div class="popup-content">
+        <h3>New Task</h3>
+        <input id="task-input" type="text" placeholder="Enter task" />
+        <button id="add-task-button">Add Task</button>
+        <button id="cancel-button">Cancel</button>
+      </div>
+    </div>
+  </body>
+</html>
